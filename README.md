@@ -18,6 +18,7 @@ Features:
 <img src="http://i.imgur.com/GYtbrqb.png?1" width=250>
 - Clicking on the notification will take you directly to the question/answer
 - Checks for updates, and alerts you when they are ready to install
+
 ```
 // @match        *://chat.meta.stackexchange.com/rooms/*
 // @match        *://chat.stackoverflow.com/rooms/*
